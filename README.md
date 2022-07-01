@@ -4,3 +4,9 @@ This repository is the final project of IASD Optimization for Machine Learning c
 Here is the list of the implemented methods: 
 - Gradient Descent
 - Gradient Descent using Armijo's step
+- Nesterov Accelerated Gradient
+- Polak-Ribière Conjugate Gradient
+- Newton (2nd order Gradient Descent)
+- Stochastic Gradient
+- Ridge Regularization
+- Lasso Regularization (ISTA)
